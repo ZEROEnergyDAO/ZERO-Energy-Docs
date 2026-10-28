@@ -1,0 +1,4 @@
+[submodule "04_Protocol/zero-energy"]
+	path = 04_Protocol/zero-energy
+	url = https://github.com/blockvault-ai/zero-energy.git
+	branch = master

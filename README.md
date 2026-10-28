@@ -18,7 +18,7 @@ Aquí está la documentación oficial del proyecto, en español, inglés y portu
 
 | Carpeta | Contenido |
 |---|---|
-| [`04_Protocol`](04_Protocol) | **Especificación Técnica del Protocolo v1.0**: la nota preliminar y las 12 secciones en inglés, y el documento completo en PDF (ES · EN · PT). |
+| [`04_Protocol`](04_Protocol) | **Especificación Técnica del Protocolo v1.0**: el documento completo en PDF (ES · EN · PT). Las secciones en inglés se mantienen en el repositorio de Blockvault, enlazado desde la carpeta. |
 | [`01_Governance` → Actas](<01_Governance/02_Meeting_Minutes (Actas - Atas)>) | Actas públicas del Comité de Gobernanza, una por reunión, en ES · EN · PT. |
 | [`02_Docs`](02_Docs) | Dossier y Plan de Negocio, en ES · EN · PT. |
 | [`03_Assets`](03_Assets) | Logotipos oficiales. |
@@ -53,7 +53,7 @@ This repository holds the project's official documentation in Spanish, English a
 
 | Folder | Contents |
 |---|---|
-| [`04_Protocol`](04_Protocol) | **Protocol Technical Specification v1.0**: the preliminary note and the 12 sections in English, plus the full document as PDF (ES · EN · PT). |
+| [`04_Protocol`](04_Protocol) | **Protocol Technical Specification v1.0**: the full document as PDF (ES · EN · PT). The sections in English are maintained in the Blockvault repository, linked from the folder. |
 | [`01_Governance` → Minutes](<01_Governance/02_Meeting_Minutes (Actas - Atas)>) | Public minutes of the Governance Committee, one per meeting, in ES · EN · PT. |
 | [`02_Docs`](02_Docs) | Dossier and Business Plan, in ES · EN · PT. |
 | [`03_Assets`](03_Assets) | Official logos. |
@@ -88,7 +88,7 @@ Aqui está a documentação oficial do projeto, em espanhol, inglês e portuguê
 
 | Pasta | Conteúdo |
 |---|---|
-| [`04_Protocol`](04_Protocol) | **Especificação Técnica do Protocolo v1.0**: a nota preliminar e as 12 seções em inglês, e o documento completo em PDF (ES · EN · PT). |
+| [`04_Protocol`](04_Protocol) | **Especificação Técnica do Protocolo v1.0**: o documento completo em PDF (ES · EN · PT). As secções em inglês são mantidas no repositório da Blockvault, ligado a partir da pasta. |
 | [`01_Governance` → Atas](<01_Governance/02_Meeting_Minutes (Actas - Atas)>) | Atas públicas do Comitê de Governança, uma por reunião, em ES · EN · PT. |
 | [`02_Docs`](02_Docs) | Dossiê e Plano de Negócios, em ES · EN · PT. |
 | [`03_Assets`](03_Assets) | Logotipos oficiais. |
