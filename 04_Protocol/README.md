@@ -1,20 +1,20 @@
-# 04_Protocol · Technical Specification v1.0
+# 04_Protocol · Especificación Técnica · Technical Specification · Especificação Técnica v1.0
 
 **ES** · Especificación Técnica del Protocolo, versión 1.0 (aprobada el 30-sep-2026).
 
-- El documento completo está en esta carpeta, en PDF: [español](ZERO-ENERGY-Especificacion-Tecnica-v1.0-es.pdf) · [inglés](ZERO-ENERGY-Technical-Specification-v1.0-en.pdf) (versión de referencia) · [portugués](ZERO-ENERGY-Especificacao-Tecnica-v1.0-pt.pdf).
+- El documento completo está en esta carpeta, en PDF: [español](1-ZERO-ENERGY-Especificacion-Tecnica-v1.0-es.pdf) · [inglés](2-ZERO-ENERGY-Technical-Specification-v1.0-en.pdf) (versión de referencia) · [portugués](3-ZERO-ENERGY-Especificacao-Tecnica-v1.0-pt.pdf).
 - Las secciones, en inglés, se mantienen en el repositorio de Blockvault, que es la fuente de la documentación técnica del protocolo: [blockvault-ai/zero-energy](https://github.com/blockvault-ai/zero-energy). Esta carpeta lo enlaza como submódulo (`zero-energy`).
 - La tabla de abajo indica dónde está cada sección del índice de la nota preliminar.
 
 **EN** · Protocol Technical Specification, version 1.0 (approved on 30 Sep 2026).
 
-- The complete document is in this folder as PDF: [Spanish](ZERO-ENERGY-Especificacion-Tecnica-v1.0-es.pdf) · [English](ZERO-ENERGY-Technical-Specification-v1.0-en.pdf) (reference version) · [Portuguese](ZERO-ENERGY-Especificacao-Tecnica-v1.0-pt.pdf).
+- The complete document is in this folder as PDF: [Spanish](1-ZERO-ENERGY-Especificacion-Tecnica-v1.0-es.pdf) · [English](2-ZERO-ENERGY-Technical-Specification-v1.0-en.pdf) (reference version) · [Portuguese](3-ZERO-ENERGY-Especificacao-Tecnica-v1.0-pt.pdf).
 - The sections, in English, are maintained in the Blockvault repository, the source of the protocol's technical documentation: [blockvault-ai/zero-energy](https://github.com/blockvault-ai/zero-energy). This folder links to it as a submodule (`zero-energy`).
 - The table below shows where each section of the preliminary note's index is.
 
 **PT** · Especificação Técnica do Protocolo, versão 1.0 (aprovada a 30-set-2026).
 
-- O documento completo está nesta pasta, em PDF: [espanhol](ZERO-ENERGY-Especificacion-Tecnica-v1.0-es.pdf) · [inglês](ZERO-ENERGY-Technical-Specification-v1.0-en.pdf) (versão de referência) · [português](ZERO-ENERGY-Especificacao-Tecnica-v1.0-pt.pdf).
+- O documento completo está nesta pasta, em PDF: [espanhol](1-ZERO-ENERGY-Especificacion-Tecnica-v1.0-es.pdf) · [inglês](2-ZERO-ENERGY-Technical-Specification-v1.0-en.pdf) (versão de referência) · [português](3-ZERO-ENERGY-Especificacao-Tecnica-v1.0-pt.pdf).
 - As secções, em inglês, são mantidas no repositório da Blockvault, a fonte da documentação técnica do protocolo: [blockvault-ai/zero-energy](https://github.com/blockvault-ai/zero-energy). Esta pasta liga-o como submódulo (`zero-energy`).
 - A tabela abaixo indica onde está cada secção do índice da nota preliminar.
 

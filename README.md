@@ -2,7 +2,7 @@
 
 **+Energy -Emissions**
 
-🇪🇸 [Español](#español) · 🇬🇧 [English](#english) · 🇧🇷 [Português](#português)
+🇪🇸 [Español](#español) · 🇬🇧 [English](#english) · 🇵🇹 [Português](#português)
 
 ---
 
