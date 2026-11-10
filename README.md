@@ -20,13 +20,14 @@ Aquí está la documentación oficial del proyecto, en español, inglés y portu
 |---|---|
 | [`04_Protocol`](04_Protocol) | **Especificación Técnica del Protocolo v1.0**: el documento completo en PDF (ES · EN · PT). Las secciones en inglés se mantienen en el repositorio de Blockvault, enlazado desde la carpeta. |
 | [`01_Governance` → Actas](<01_Governance/02_Meeting_Minutes (Actas - Atas)>) | Actas públicas del Comité de Gobernanza, una por reunión, en ES · EN · PT. |
-| [`02_Docs`](02_Docs) | Dossier y Plan de Negocio, en ES · EN · PT. |
+| [`02_Docs`](02_Docs) | Dossier y **Plan de Negocio v1.2** (noviembre de 2026), en ES · EN · PT. Las versiones anteriores del plan están en `versiones-anteriores/`. |
 | [`03_Assets`](03_Assets) | Logotipos oficiales. |
 
 Las carpetas de estatutos, anexos y tesorería de `01_Governance` están reservadas y todavía no tienen documentos.
 
 ### Cómo leer la documentación
 
+- Para empezar, el **Plan de Negocio**: explica la idea, el problema y la oportunidad sin entrar en detalles técnicos. Quien quiera profundizar sigue con la Especificación Técnica.
 - La Especificación Técnica es la fuente de referencia del protocolo. Si otro documento dice algo distinto, vale lo que dice la Especificación.
 - Su versión de referencia es la inglesa. La española y la portuguesa son traducciones.
 - El cuerpo de la v1.0 no se modifica: lo que se incorpore después se publicará como anexo fechado.
@@ -55,13 +56,14 @@ This repository holds the project's official documentation in Spanish, English a
 |---|---|
 | [`04_Protocol`](04_Protocol) | **Protocol Technical Specification v1.0**: the full document as PDF (ES · EN · PT). The sections in English are maintained in the Blockvault repository, linked from the folder. |
 | [`01_Governance` → Minutes](<01_Governance/02_Meeting_Minutes (Actas - Atas)>) | Public minutes of the Governance Committee, one per meeting, in ES · EN · PT. |
-| [`02_Docs`](02_Docs) | Dossier and Business Plan, in ES · EN · PT. |
+| [`02_Docs`](02_Docs) | Dossier and **Business Plan v1.2** (November 2026), in ES · EN · PT. Earlier versions of the plan are in `versiones-anteriores/`. |
 | [`03_Assets`](03_Assets) | Official logos. |
 
 The bylaws, appendices and treasury folders in `01_Governance` are reserved and do not contain documents yet.
 
 ### How to read the documentation
 
+- Start with the **Business Plan**: it explains the idea, the problem and the opportunity without going into technical detail. Readers who want to go further continue with the Technical Specification.
 - The Technical Specification is the reference source for the protocol. If another document says something different, the Specification applies.
 - Its reference version is the English one. The Spanish and Portuguese versions are translations.
 - The body of v1.0 is not modified: anything added later will be published as a dated annex.
@@ -90,13 +92,14 @@ Aqui está a documentação oficial do projeto, em espanhol, inglês e portuguê
 |---|---|
 | [`04_Protocol`](04_Protocol) | **Especificação Técnica do Protocolo v1.0**: o documento completo em PDF (ES · EN · PT). As secções em inglês são mantidas no repositório da Blockvault, ligado a partir da pasta. |
 | [`01_Governance` → Atas](<01_Governance/02_Meeting_Minutes (Actas - Atas)>) | Atas públicas do Comitê de Governança, uma por reunião, em ES · EN · PT. |
-| [`02_Docs`](02_Docs) | Dossiê e Plano de Negócios, em ES · EN · PT. |
+| [`02_Docs`](02_Docs) | Dossiê e **Plano de Negócios v1.2** (novembro de 2026), em ES · EN · PT. As versões anteriores do plano estão em `versiones-anteriores/`. |
 | [`03_Assets`](03_Assets) | Logotipos oficiais. |
 
 As pastas de estatutos, anexos e tesouraria de `01_Governance` estão reservadas e ainda não têm documentos.
 
 ### Como ler a documentação
 
+- Para começar, o **Plano de Negócios**: explica a ideia, o problema e a oportunidade sem entrar em pormenores técnicos. Quem quiser aprofundar continua com a Especificação Técnica.
 - A Especificação Técnica é a fonte de referência do protocolo. Se outro documento disser algo diferente, vale o que diz a Especificação.
 - A versão de referência é a inglesa. A espanhola e a portuguesa são traduções.
 - O corpo da v1.0 não é modificado: o que for incorporado depois será publicado como anexo datado.
